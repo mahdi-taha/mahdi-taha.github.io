@@ -377,7 +377,7 @@ body {
 }
 
 .tech-heading {
-    color: #777771;
+    color: #8e8e88;
 }
 
 .tech-heading strong {
@@ -402,7 +402,7 @@ body {
 }
 
 .hero-role {
-    color: #777771;
+    color: #8b8b85;
     font-size: 0.82rem;
     font-weight: 700;
     letter-spacing: 0.04em;
@@ -961,7 +961,7 @@ body {
 }
 
 .about-availability {
-    color: #666660;
+    color: #8b8b85;
 
     font-size: 0.7rem;
     font-weight: 700;
@@ -1057,7 +1057,7 @@ body {
 }
 
 .about-detail span {
-    color: #686862;
+    color: #8d8d87;
 
     font-size: 0.68rem;
     font-weight: 700;
@@ -1119,7 +1119,7 @@ body {
 .about-stat span {
     margin-top: 5px;
 
-    color: #72726c;
+    color: #868680;
 
     font-size: 0.68rem;
     font-weight: 600;
@@ -1238,7 +1238,7 @@ body {
 
     margin-bottom: 16px;
 
-    color: #85857f;
+    color: #979791;
 
     font-size: 0.75rem;
     font-weight: 700;
@@ -1274,7 +1274,7 @@ body {
 .projects-count {
     padding-bottom: 5px;
 
-    color: #666660;
+    color: #979791;
 
     font-size: 0.72rem;
     font-weight: 700;
@@ -1537,7 +1537,7 @@ body {
 
     margin-bottom: 16px;
 
-    color: #85857f;
+    color: #8b8b85;
 
     font-size: 0.75rem;
     font-weight: 700;
@@ -1573,7 +1573,7 @@ body {
 .capabilities-count {
     padding-bottom: 6px;
 
-    color: #666660;
+    color: #8b8b85;
 
     font-size: 0.7rem;
     font-weight: 700;
@@ -2245,7 +2245,7 @@ body {
 .education-creative-header p {
     margin: 14px 0 0;
 
-    color: #85857f;
+    color: #8b8b85;
 
     font-size: 0.9rem;
 }
@@ -2385,7 +2385,7 @@ body {
     align-items: center;
     justify-content: space-between;
 
-    color: #767670;
+    color: #8e8e88;
 
     font-size: 0.68rem;
     font-weight: 700;
@@ -2500,7 +2500,7 @@ body {
 
     border-top: 1px solid #34342f;
 
-    color: #70706a;
+    color: #8e8e88;
 
     font-size: 0.65rem;
     font-weight: 700;
@@ -2670,7 +2670,7 @@ body {
 }
 
 .contact-small-label {
-    color: #5f5f5a;
+    color: #898984;
 
     font-size: 0.68rem;
     font-weight: 700;
@@ -2702,7 +2702,7 @@ body {
 
     margin-bottom: 17px;
 
-    color: #777771;
+    color: #898983;
 
     font-size: 0.72rem;
     font-weight: 700;
@@ -2883,7 +2883,7 @@ body {
 
     margin-bottom: 8px;
 
-    color: #60605b;
+    color: #898984;
 
     font-size: 0.63rem;
     font-weight: 700;
@@ -2943,7 +2943,7 @@ body {
 .footer-brand span {
     margin-top: 3px;
 
-    color: #63635e;
+    color: #7f7f7a;
 
     font-size: 0.68rem;
 }
@@ -2957,7 +2957,7 @@ body {
 }
 
 .footer-links a {
-    color: #777771;
+    color: #7f7f79;
 
     font-size: 0.7rem;
     font-weight: 600;
@@ -2972,7 +2972,7 @@ body {
 }
 
 .footer-copy {
-    color: #5f5f5a;
+    color: #7f7f7a;
 
     font-size: 0.68rem;
 
