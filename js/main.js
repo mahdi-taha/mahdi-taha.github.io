@@ -1,13 +1,3 @@
-document.addEventListener('DOMContentLoaded', function () {
-    const loader = document.getElementById('page-loader');
-
-    loader.classList.add('loader-hidden');
-
-    setTimeout(function () {
-        loader.remove();
-    }, 500);
-});
-
 const navbar = document.querySelector('.portfolio-navbar');
 const navbarToggle = document.querySelector('.navbar-toggle');
 const navbarMenu = document.querySelector('.navbar-menu');
