@@ -1,4 +1,4 @@
-window.addEventListener('load', function () {
+document.addEventListener('DOMContentLoaded', function () {
     const loader = document.getElementById('page-loader');
 
     loader.classList.add('loader-hidden');
